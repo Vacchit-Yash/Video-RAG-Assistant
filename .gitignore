@@ -1,0 +1,15 @@
+__pycache__/
+.vscode/
+
+audios/
+Sample Video/
+embedding_df.joblib
+
+*.mp3
+*.mp4
+*.wav
+
+output.json
+response.txt
+
+.env
